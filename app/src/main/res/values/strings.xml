@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CameleonContacts</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="contact_type">
+        <item>
+            Phone
+        </item>
+        <item>
+            Email
+        </item>
+    </string-array>
+</resources>

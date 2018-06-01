@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="actionbar">#302c46</color>
+    <color name="white">#ffffff</color>
+    <color name="background">#1c192c</color>
+    <color name="dialog_bg">#f1e3e3</color>
+    <color name="transparent">#00000000</color>
+    <color name="horizontal_line">#918888</color>
+</resources>
